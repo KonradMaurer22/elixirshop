@@ -1,0 +1,17 @@
+Shopping cart
+
+we will need:
+
+  list/map datastructure to contain the events/products
+
+    event properties:
+      id
+      timestamp
+      type
+      product
+
+      { product: :pens }
+
+  methods that will:
+    add events
+    reading events
